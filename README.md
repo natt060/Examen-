@@ -1,3 +1,3 @@
 # Examen
 Natalia
-![imagen](fotografia-de-paisajes.jpg)
+![imagen](images.jpeg)
